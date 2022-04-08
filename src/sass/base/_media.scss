@@ -1,0 +1,10 @@
+@media (max-width: 970px) {
+    .header {
+        padding: 0 20px;
+    }
+    .promo {
+        &__wrapper {
+            padding: 0 20px;
+        }
+    }
+}
