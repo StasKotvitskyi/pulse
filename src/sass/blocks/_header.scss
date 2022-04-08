@@ -12,7 +12,7 @@
         font-weight: 500;
         font-size: 12px;
         text-align: center;
-        color: #FFFFFF;
+        color: $white-color;
         span {
             display: block;
             font-size: 18px;
@@ -22,10 +22,10 @@
         display: block;
         font-weight: 700;
         font-size: 18px;
-        color: #FFFFFF;
+        color: $white-color;
         text-decoration: none;
         &:hover {
-            color: #FFFFFF;
+            color: $white-color;
         }
     }
     &__contacts {
